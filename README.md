@@ -28,3 +28,7 @@
 <div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakrsahu&show_icons=true&locale=en&layout=compact" alt="adityakrsahu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityakrsahu&show_icons=true&locale=en" alt="adityakrsahu" /></p></div>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakrsahu&" alt="adityakrsahu" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adityakrsahu&limit=5&theme=flat&combine_all_yearly_contributions=true)
