@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate python full stack developer from India</h3>
 
-
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakrsahu&label=Profile%20views&color=0e75b6&style=flat" alt="adityakrsahu"/> </p>
 
-- 🌱 I’m currently learning **Python full stack developer**
+- 🌱🌱 I’m currently learning **Python full stack developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adityakrsahu](https://github.com/adityakrsahu)
+- 👨‍💻🧑‍💻🧑‍💻 All of my projects are available at [https://github.com/adityakrsahu](https://github.com/adityakrsahu)
 
-- 💬 Ask me about **Html, CSS, Js, React, Python, Django**
+- 💬🧾 Ask me about **Html, CSS, Js, React, Python, Django**
 
 - 📫 How to reach me **adityakr2019@gmail.com**
 
