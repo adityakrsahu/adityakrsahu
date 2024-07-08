@@ -1,3 +1,5 @@
+<img src="" alt="coging">
+
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate python full stack developer from India</h3>
 
